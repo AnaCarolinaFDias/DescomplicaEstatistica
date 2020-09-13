@@ -6,15 +6,17 @@ Este repositório é destinado ao compartilhamento de materiais de Estatística 
    
 -------
 
-## Tópicos 
+# Tópicos 
 
-### Módulo 1 - Introdução à Estatística
+ - [x] [Materiais de Estatística](https://github.com/AnaCarolinaFDias/DescomplicaEstatistica/tree/master/Estatistica)
+ - [x] [Materiais de R](https://github.com/beatrizmilz/materiais_estudo_R)
+ - [x] [Materiais de Python]()
+ - [x] [Materiais de PowerBI]()
 
-- [x] [**Afinal, o que é Estatística?**](https://medium.com/@descomplicaestatistica/introdu%C3%A7%C3%A3o-%C3%A0-estat%C3%ADstica-39f49812162c)
-    - O que é a Estatística? 
-    - Para que serve? 
-    - Quais as áreas de atuação?
+# Siga o Descomplica Estatística 
+
+
+
     
     
-## Materiais 
 
