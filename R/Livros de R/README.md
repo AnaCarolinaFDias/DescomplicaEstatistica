@@ -6,28 +6,28 @@
 # Livros de R em Inglês
 
 ### :green_book: Hands-On Programming with R [Gratuito] <img align="left" width="110" src="https://images-na.ssl-images-amazon.com/images/I/51SZMR4JKML._SX379_BO1,204,203,200_.jpg">
-- [x] Link: https://rstudio-education.github.io/hopr/
+- [x] **Link:** https://rstudio-education.github.io/hopr/
   - **Autor:** Garrett Grolemund
   - **Resumo:** Este livro ensina a programar em R, com exemplos práticos. Ele foi escrito para não-programadores para fornecer uma introdução amigável à linguagem R. 
 
 <br/> 
 
 ### :green_book: R for Data Science [Gratuito] <img align="left" width="110" src="https://images-na.ssl-images-amazon.com/images/I/51Vfk-LxgML._SX331_BO1,204,203,200_.jpg">
-- [x]  Link: http://r4ds.had.co.nz/
+  - [x] **Link:** http://r4ds.had.co.nz/
   - **Autores:** Garrett Grolemund e Hadley Wickham
   - **Resumo:** Este livro ensina como fazer ciência de dados com R: você aprenderá como importar, transformar, visualizar, e modelar os dados.
 
 <br/> 
       
 ### :green_book: R Packages: Organize, Test, Document, and Share Your Code [Gratuito] <img align="left" width="110" src="https://images-na.ssl-images-amazon.com/images/I/51Gq08EumSL._SY445_QL70_ML2_.jpg">
-- [x]  Link: https://r-pkgs.org/
+- [x]  **Link:** https://r-pkgs.org/
   - **Autores:** Hadley Wickham, Jennifer Bryan
   - **Resumo:** Transforme seu código R em pacotes para que outras pessoas possam baixar e usar facilmente. Agrupe funções R reutilizáveis, dados de amostra e documentação aplicando a filosofia de desenvolvimento de pacotes do autor Hadley Wickham.
   
   <br/> 
   
 ### :green_book: R Graphics Cookbook [Gratuito]   <img align="left" width="110" src="https://m.media-amazon.com/images/I/51pbSD4qd-L.jpg">
-- [x]  Link: https://books.google.com.br/books?id=fxL4tu5bzAAC&printsec=frontcover&redir_esc=y&hl=pt-BR#v=onepage&q&f=false
+- [x]  **Link:** https://books.google.com.br/books?id=fxL4tu5bzAAC&printsec=frontcover&redir_esc=y&hl=pt-BR#v=onepage&q&f=false
   - **Autores:** Winston Chang
   - **Resumo:** Um livro de receitas para a criação de gráficos eficazes com ggplot2 e base R. O objetivo do livro de receitas é fornecer soluções para tarefas e problemas comuns na análise de dados.
   
@@ -41,27 +41,41 @@
 <br/>  
   
  ### :green_book: Mastering Spark with R [Gratuito] <img align="left" width="110" src="https://images-na.ssl-images-amazon.com/images/I/91brkxT15fL.jpg">
-- [x]  Link: https://therinspark.com/
+- [x]  **Link:** https://therinspark.com/
   - **Autores:** Javier Luraschi, Kevin Kuo, Edgar Ruiz
   - **Resumo:** Neste livro você vai aprender a usar o Apache Spark com R. O livro pretende levar alguém não familiarizado com Spark ou R e ajudá-lo a se tornar proficiente, ensinando-lhe um conjunto de ferramentas, habilidades e práticas aplicáveis à ciência de dados em grande escala. 
   
   <br/> 
   
  ### :green_book: Creating Websites with R Markdown [Gratuito] <img align="left" width="100" src="https://m.media-amazon.com/images/I/51BNGFbf+1L.jpg">
-  - [x]  Link: https://bookdown.org/yihui/blogdown/
+  - [x]  **Link:** https://bookdown.org/yihui/blogdown/
     - **Autores:** Yihui Xie, JJ Allaire, Garrett Grolemund
     - **Resumo:** Este livro apresenta o pacote blogdown que possibilita a criação de sites usando R Markdown e Hugo.
   
   <br/> 
   
  ### :green_book: R Markdown: The Definitive Guide [Gratuito] <img align="left" width="100" src="https://m.media-amazon.com/images/I/41FjIfC3EgL.jpg">
-  - [x]  Link: https://bookdown.org/yihui/rmarkdown/
+  - [x]  **Link:** https://bookdown.org/yihui/rmarkdown/
    - **Autores:** Yihui Xie, JJ Allaire, Garrett Grolemund
-    - **Resumo:** Este livro consiste em quatro partes. A Parte I cobre o básico: o Capítulo 1 apresenta como instalar os pacotes relevantes e o Capítulo 2 é uma visão geral do R Markdown, incluindo os possíveis formatos de saída, a sintaxe do Markdown, a sintaxe do bloco de código R e como usar outras linguagens no R Markdown.
+   - **Resumo:** Este livro consiste em quatro partes. A Parte I cobre o básico: o Capítulo 1 apresenta como instalar os pacotes relevantes e o Capítulo 2 é uma visão geral do R Markdown, incluindo os possíveis formatos de saída, a sintaxe do Markdown, a sintaxe do bloco de código R e como usar outras linguagens no R Markdown.
 
 <br/> 
 
- ### :green_book: Authoring Books and Technical Documents with R Markdown [Gratuito] <img align="left" width="100" src="https://bookdown.org/yihui/bookdown/images/cover.jpg">
-  - [x]  Link: https://bookdown.org/yihui/bookdown/
-    - **Autores:** Yihui Xie, JJ Allaire, Garrett Grolemund
-    - **Resumo:** Este livro explica como usar o bookdown para escrever livros e documentos técnicos. O pacote bookdown é construído em cima do R Markdown. Ele herda a simplicidade da sintaxe Markdown e adiciona recursos como saída HTML de várias páginas, numeração e referência cruzada.
+ ### :green_book: Authoring Books and Technical Documents with R Markdown [Gratuito] <img align="left" width="90" src="https://bookdown.org/yihui/bookdown/images/cover.jpg">
+ - [x]  **Link:** https://bookdown.org/yihui/bookdown/
+   - **Autores:** Yihui Xie, JJ Allaire, Garrett Grolemund
+   - **Resumo:** Este livro explica como usar o bookdown para escrever livros e documentos técnicos. O pacote bookdown é construído em cima do R Markdown. Ele herda a simplicidade da sintaxe Markdown e adiciona recursos como saída HTML de várias páginas, numeração e referência cruzada.
+   
+<br/> 
+
+ ### :green_book: Dynamic Documents with R & knitr [Gratuito] <img align="left" width="90" src="https://images-na.ssl-images-amazon.com/images/I/51yJpbMFqsL._SY445_QL70_ML2_.jpg">
+ - [x]  **Link:** https://yihui.org/knitr/
+   - **Autores:** Yihui Xie
+   - **Resumo:** Uma introdução ao pacote knitr, que permite incorporar o código R em documentos pdf e html para criar relatórios reproduzíveis e automatizados.
+
+<br/> 
+
+ ### :green_book: Reproducible Finance with R: Code Flows and Shiny Apps for Portfolio Analysis  [PAGO] <img align="left" width="90" src="http://d33wubrfki0l68.cloudfront.net/002a06b8377a9ee498d8db8c52133fe585a10aa6/51a92/rf-book-cover1.png">
+ - [x]  **Link:** https://www.amazon.com/Reproducible-Finance-Portfolio-Analysis-Chapman/dp/1138484032
+   - **Autores:** Jonathan K., Regenstein Jr.
+   - **Resumo:** Uma introdução exclusiva à ciência de dados para gerenciamento de investimentos. 
