@@ -15,8 +15,3 @@ Este repositório é destinado ao compartilhamento de materiais de Estatística 
 
 # Siga o Descomplica Estatística 
 
-
-
-    
-    
-
