@@ -29,6 +29,6 @@ Este repositório é destinado ao compartilhamento de materiais de Estatística 
   ![Logo png](https://user-images.githubusercontent.com/15165646/93026801-178f4980-f5df-11ea-8947-7e06e30b5e29.png)
   
 ## Sobre o Descomplica :blush:
-- O **Descomplica Etatística** nasceu da vontade de compartilhar a estatística de uma forma simples, leve e de modo que qualquer pessoa independente da área em que ela atue consiga compreender.
+- O **Descomplica Estatística** nasceu da vontade de compartilhar a estatística de uma forma simples, leve e de modo que qualquer pessoa independente da área em que ela atue consiga compreender.
 
-- Este é um espaço colaborativo que pode servir de referência para as pessoas, sinta-se livre para contruibuir caso você conheça algum material interessante!! :v:
+- Este é um *espaço colaborativo* que pode servir de referência para as pessoas, sinta-se livre para contruibuir caso você conheça algum material interessante!! :v:
