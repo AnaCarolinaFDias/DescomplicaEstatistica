@@ -15,6 +15,8 @@ Este repositório é destinado ao compartilhamento de materiais de Estatística 
 
 # Siga o Descomplica Estatística 
 
+
+
 <a  href="https://www.instagram.com/descomplicaestatistica/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" class="center" width="60"> </a> 
 <a  href="https://www.youtube.com/channel/UCh7holfA6lXAeKPFHIqeOwQ/featured?view_as=subscriber&sub_confirmation=1"> <img src="https://icons-for-free.com/iconfiles/png/512/logo+media+social+square+video+youtube+icon-1320192913003765080.png" class="center" width="60"> </a> 
 <a  href="https://medium.com/@descomplicaestatistica"> <img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721675-medium_108052.png" class="center" width="60"> </a> 
@@ -25,3 +27,8 @@ Este repositório é destinado ao compartilhamento de materiais de Estatística 
 
 
   ![Logo png](https://user-images.githubusercontent.com/15165646/93026801-178f4980-f5df-11ea-8947-7e06e30b5e29.png)
+  
+## Sobre o Descomplica :blush:
+- O **Descomplica Etatística** nasceu da vontade de compartilhar a estatística de uma forma simples, leve e de modo que qualquer pessoa independente da área em que ela atue consiga compreender.
+
+- Este é um espaço colaborativo que pode servir de referência para as pessoas, sinta-se livre para contruibuir caso você conheça algum material interessante!! :v:
