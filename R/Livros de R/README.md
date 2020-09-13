@@ -26,6 +26,13 @@
   
   <br/> 
   
+### :green_book: Text Mining with R [Gratuito] <img align="left" width="110" src="https://images-na.ssl-images-amazon.com/images/I/91uPkp3IUML.jpg">
+- [x]  **Link:** https://www.tidytextmining.com/
+  - **Autores:** Julia Silge e David Robinson
+  - **Resumo:** Este livro serve como uma introdução à mineração de texto usando o pacote tidytext e outras ferramentas tidy em R. As funções fornecidas pelo pacote tidytext são relativamente simples; o que é importante são as aplicações possíveis. Portanto, este livro fornece exemplos convincentes de problemas reais de mineração de texto.
+  
+  <br/> 
+  
 ### :green_book: R Graphics Cookbook [Gratuito]   <img align="left" width="110" src="https://m.media-amazon.com/images/I/51pbSD4qd-L.jpg">
 - [x]  **Link:** https://books.google.com.br/books?id=fxL4tu5bzAAC&printsec=frontcover&redir_esc=y&hl=pt-BR#v=onepage&q&f=false
   - **Autores:** Winston Chang
@@ -36,7 +43,14 @@
 ### :green_book: An Introduction to Statistical Learning: with Applications in R [Gratuito] <img align="left" width="100" src="https://m.media-amazon.com/images/I/41jy3mwLy9L.jpg">
 - [x]  Link: https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf
   - **Autores:** Gareth James. Daniela Witten. Trevor Hastie, Robert Tibshirani
-  - **Resumo:** Este livro fornece uma introdução aos métodos de aprendizagem estatísticos. Destina-se a alunos de graduação de nível superior, alunos de mestrado e doutorado. estudantes de ciências não matemáticas. O livro também contém vários exemplos em R com explicações detalhadas sobre como implementar os vários métodos em ambientes da vida real. Os tópicos incluem regressão linear, classificação, métodos de reamostragem, abordagens de redução, métodos baseados em árvore, máquinas de vetor de suporte, clustering e muito mais.   
+  - **Resumo:** Este livro fornece uma introdução aos métodos de aprendizagem estatísticos. Destina-se a alunos de graduação de nível superior, alunos de mestrado e doutorado. estudantes de ciências não matemáticas. O livro também contém vários exemplos em R com explicações detalhadas sobre como implementar os vários métodos em ambientes da vida real. Os tópicos incluem regressão linear, classificação, métodos de reamostragem, abordagens de redução, métodos baseados em árvore, máquinas de vetor de suporte, clustering e muito mais.
+  
+<br/> 
+  
+### :green_book: ggplot2 [Gratuito] <img align="left" width="100" src="https://images-na.ssl-images-amazon.com/images/I/51smGgbUUjL.jpg">
+- [x]  Link: https://ggplot2-book.org/
+  - **Autores:** Hadley Wickham
+  - **Resumo:** Este livro fornece uma introdução prática ao ggplot2 com muitos exemplos de código e gráficos. Também explica a gramática na qual o ggplot2 é baseado. Como outros sistemas formais, ggplot2 é útil mesmo quando você não entende o modelo subjacente. 
   
 <br/>  
   
@@ -76,7 +90,6 @@
 
 <br/> 
 
-### :green_book: Reproducible Finance with R: Code Flows and Shiny Apps for Portfolio Analysis  [PAGO] <img align="left" width="90" src="http://d33wubrfki0l68.cloudfront.net/002a06b8377a9ee498d8db8c52133fe585a10aa6/51a92/rf-book-cover1.png">
- - [x]  **Link:** https://www.amazon.com/Reproducible-Finance-Portfolio-Analysis-Chapman/dp/1138484032
-   - **Autores:** Jonathan K., Regenstein Jr.
-   - **Resumo:** Uma introdução exclusiva à ciência de dados para gerenciamento de investimentos. 
+### :green_book: Advanced R [Gratuito] <img align="left" width="90" src="https://images-na.ssl-images-amazon.com/images/I/418tQNF3+fL._SY344_BO1,204,203,200_.jpg">
+ - [x]  **Link:** http://adv-r.had.co.nz/Data-structures.html
+   - **Autores:** Hadley Wickham
