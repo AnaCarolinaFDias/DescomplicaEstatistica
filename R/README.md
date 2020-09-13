@@ -33,5 +33,5 @@
 - [x] **Noções básicas de expressões regulares** - [Inglês](https://wch.github.io/latexsheet/)
 
 
-:arrow_forward: **Confira outros cheatsheets em inglês e traduções disponíveis no site: https://www.rstudio.com/resources/cheatsheets/ **
+:arrow_forward: **Confira outros cheatsheets em inglês e traduções disponíveis no site: https://www.rstudio.com/resources/cheatsheets/**
 
