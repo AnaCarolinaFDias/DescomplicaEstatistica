@@ -33,49 +33,50 @@
   
   <br/> 
   
-  ### :green_book: An Introduction to Statistical Learning: with Applications in R [Gratuito] <img align="left" width="100" src="https://images-na.ssl-images-amazon.com/images/I/61Lvnv9+CML.jpg">
+### :green_book: An Introduction to Statistical Learning: with Applications in R [Gratuito] <img align="left" width="100" src="https://m.media-amazon.com/images/I/41jy3mwLy9L.jpg">
 - [x]  Link: https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf
   - **Autores:** Gareth James. Daniela Witten. Trevor Hastie, Robert Tibshirani
   - **Resumo:** Este livro fornece uma introdução aos métodos de aprendizagem estatísticos. Destina-se a alunos de graduação de nível superior, alunos de mestrado e doutorado. estudantes de ciências não matemáticas. O livro também contém vários exemplos em R com explicações detalhadas sobre como implementar os vários métodos em ambientes da vida real. Os tópicos incluem regressão linear, classificação, métodos de reamostragem, abordagens de redução, métodos baseados em árvore, máquinas de vetor de suporte, clustering e muito mais.   
   
 <br/>  
   
- ### :green_book: Mastering Spark with R [Gratuito] <img align="left" width="110" src="https://images-na.ssl-images-amazon.com/images/I/91brkxT15fL.jpg">
+### :green_book: Mastering Spark with R [Gratuito] <img align="left" width="110" src="https://images-na.ssl-images-amazon.com/images/I/91brkxT15fL.jpg">
 - [x]  **Link:** https://therinspark.com/
   - **Autores:** Javier Luraschi, Kevin Kuo, Edgar Ruiz
   - **Resumo:** Neste livro você vai aprender a usar o Apache Spark com R. O livro pretende levar alguém não familiarizado com Spark ou R e ajudá-lo a se tornar proficiente, ensinando-lhe um conjunto de ferramentas, habilidades e práticas aplicáveis à ciência de dados em grande escala. 
   
   <br/> 
   
- ### :green_book: Creating Websites with R Markdown [Gratuito] <img align="left" width="100" src="https://m.media-amazon.com/images/I/51BNGFbf+1L.jpg">
+  
+### :green_book: Creating Websites with R Markdown [Gratuito] <img align="left" width="100" src="https://m.media-amazon.com/images/I/51BNGFbf+1L.jpg">
   - [x]  **Link:** https://bookdown.org/yihui/blogdown/
     - **Autores:** Yihui Xie, JJ Allaire, Garrett Grolemund
     - **Resumo:** Este livro apresenta o pacote blogdown que possibilita a criação de sites usando R Markdown e Hugo.
   
   <br/> 
   
- ### :green_book: R Markdown: The Definitive Guide [Gratuito] <img align="left" width="100" src="https://m.media-amazon.com/images/I/41FjIfC3EgL.jpg">
+### :green_book: R Markdown: The Definitive Guide [Gratuito] <img align="left" width="100" src="https://m.media-amazon.com/images/I/41FjIfC3EgL.jpg">
   - [x]  **Link:** https://bookdown.org/yihui/rmarkdown/
    - **Autores:** Yihui Xie, JJ Allaire, Garrett Grolemund
    - **Resumo:** Este livro consiste em quatro partes. A Parte I cobre o básico: o Capítulo 1 apresenta como instalar os pacotes relevantes e o Capítulo 2 é uma visão geral do R Markdown, incluindo os possíveis formatos de saída, a sintaxe do Markdown, a sintaxe do bloco de código R e como usar outras linguagens no R Markdown.
 
 <br/> 
 
- ### :green_book: Authoring Books and Technical Documents with R Markdown [Gratuito] <img align="left" width="90" src="https://bookdown.org/yihui/bookdown/images/cover.jpg">
+### :green_book: Authoring Books and Technical Documents with R Markdown [Gratuito] <img align="left" width="90" src="https://bookdown.org/yihui/bookdown/images/cover.jpg">
  - [x]  **Link:** https://bookdown.org/yihui/bookdown/
    - **Autores:** Yihui Xie, JJ Allaire, Garrett Grolemund
    - **Resumo:** Este livro explica como usar o bookdown para escrever livros e documentos técnicos. O pacote bookdown é construído em cima do R Markdown. Ele herda a simplicidade da sintaxe Markdown e adiciona recursos como saída HTML de várias páginas, numeração e referência cruzada.
    
 <br/> 
 
- ### :green_book: Dynamic Documents with R & knitr [Gratuito] <img align="left" width="90" src="https://images-na.ssl-images-amazon.com/images/I/51yJpbMFqsL._SY445_QL70_ML2_.jpg">
+### :green_book: Dynamic Documents with R & knitr [Gratuito] <img align="left" width="90" src="https://images-na.ssl-images-amazon.com/images/I/51yJpbMFqsL._SY445_QL70_ML2_.jpg">
  - [x]  **Link:** https://yihui.org/knitr/
    - **Autores:** Yihui Xie
    - **Resumo:** Uma introdução ao pacote knitr, que permite incorporar o código R em documentos pdf e html para criar relatórios reproduzíveis e automatizados.
 
 <br/> 
 
- ### :green_book: Reproducible Finance with R: Code Flows and Shiny Apps for Portfolio Analysis  [PAGO] <img align="left" width="90" src="http://d33wubrfki0l68.cloudfront.net/002a06b8377a9ee498d8db8c52133fe585a10aa6/51a92/rf-book-cover1.png">
+### :green_book: Reproducible Finance with R: Code Flows and Shiny Apps for Portfolio Analysis  [PAGO] <img align="left" width="90" src="http://d33wubrfki0l68.cloudfront.net/002a06b8377a9ee498d8db8c52133fe585a10aa6/51a92/rf-book-cover1.png">
  - [x]  **Link:** https://www.amazon.com/Reproducible-Finance-Portfolio-Analysis-Chapman/dp/1138484032
    - **Autores:** Jonathan K., Regenstein Jr.
    - **Resumo:** Uma introdução exclusiva à ciência de dados para gerenciamento de investimentos. 
