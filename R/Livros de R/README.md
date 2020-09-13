@@ -10,24 +10,28 @@
   - **Autor:** Garrett Grolemund
   - **Resumo:** Este livro ensina a programar em R, com exemplos práticos. Ele foi escrito para não-programadores para fornecer uma introdução amigável à linguagem R. 
 
-
+<br/> 
 
 ### :green_book: R for Data Science [Gratuito] <img align="left" width="110" src="https://images-na.ssl-images-amazon.com/images/I/51Vfk-LxgML._SX331_BO1,204,203,200_.jpg">
 - [x]  Link: http://r4ds.had.co.nz/
   - **Autores:** Garrett Grolemund e Hadley Wickham
   - **Resumo:** Este livro ensina como fazer ciência de dados com R: você aprenderá como importar, transformar, visualizar, e modelar os dados.
-    
-    ### :green_book: R Packages: Organize, Test, Document, and Share Your Code [Gratuito] <img align="left" width="110" src="https://images-na.ssl-images-amazon.com/images/I/51Gq08EumSL._SY445_QL70_ML2_.jpg">
+
+<br/> 
+      
+ ### :green_book: R Packages: Organize, Test, Document, and Share Your Code [Gratuito] <img align="left" width="100" src="https://images-na.ssl-images-amazon.com/images/I/51Gq08EumSL._SY445_QL70_ML2_.jpg">
 - [x]  Link: https://r-pkgs.org/
   - **Autores:** Hadley Wickham, Jennifer Bryan
   - **Resumo:** Transforme seu código R em pacotes para que outras pessoas possam baixar e usar facilmente. Agrupe funções R reutilizáveis, dados de amostra e documentação aplicando a filosofia de desenvolvimento de pacotes do autor Hadley Wickham.
   
+  <br/> 
+  
  ### :green_book: R Graphics Cookbook [Gratuito]   <img align="left" width="150" src="https://m.media-amazon.com/images/I/51pbSD4qd-L.jpg">
-
 - [x]  Link: https://books.google.com.br/books?id=fxL4tu5bzAAC&printsec=frontcover&redir_esc=y&hl=pt-BR#v=onepage&q&f=false
   - **Autores:** Winston Chang
   - **Resumo:** Um livro de receitas para a criação de gráficos eficazes com ggplot2 e base R. O objetivo do livro de receitas é fornecer soluções para tarefas e problemas comuns na análise de dados.
   
+  <br/> 
   
   ### :green_book: An Introduction to Statistical Learning: with Applications in R [Gratuito] <img align="left" width="110" src="https://images-na.ssl-images-amazon.com/images/I/61Lvnv9+CML.jpg">
 - [x]  Link: https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf
@@ -35,15 +39,10 @@
   - **Resumo:** Este livro fornece uma introdução aos métodos de aprendizagem estatísticos. Destina-se a alunos de graduação de nível superior, alunos de mestrado e doutorado. estudantes de ciências não matemáticas. O livro também contém vários exemplos em R com explicações detalhadas sobre como implementar os vários métodos em ambientes da vida real. Os tópicos incluem regressão linear, classificação, métodos de reamostragem, abordagens de redução, métodos baseados em árvore, máquinas de vetor de suporte, clustering e muito mais.   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
 
   ### :green_book: Mastering Spark with R [Gratuito] 
 - [x]  Link: https://therinspark.com/
