@@ -23,9 +23,9 @@
 
   ### :green_book: Mastering Spark with R [Gratuito] 
 - [x]  Link: https://therinspark.com/
-  - **Autores:** Yihui Xie, JJ Allaire, Garrett Grolemund
+  - **Autores:** Javier Luraschi, Kevin Kuo, Edgar Ruiz
   - **Resumo:** Neste livro você vai aprender a usar o Apache Spark com R. O livro pretende levar alguém não familiarizado com Spark ou R e ajudá-lo a se tornar proficiente, ensinando-lhe um conjunto de ferramentas, habilidades e práticas aplicáveis à ciência de dados em grande escala. 
-
+  
   ### :green_book: R Markdown: The Definitive Guide [Gratuito] 
 - [x]  Link: https://bookdown.org/yihui/rmarkdown/
   - **Autores:** Yihui Xie, JJ Allaire, Garrett Grolemund
