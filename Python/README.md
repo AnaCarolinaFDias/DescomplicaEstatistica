@@ -12,8 +12,7 @@
 
 <br/> 
 
-### :green_book: Automate the Boring Stuff with Python
- [Gratuito] <img align="left" width="110" src="https://images-na.ssl-images-amazon.com/images/I/517XL4pO6jL._AC_SY400_.jpg">
+### :green_book: Automate the Boring Stuff with Python [Gratuito] <img align="left" width="110" src="https://images-na.ssl-images-amazon.com/images/I/517XL4pO6jL._AC_SY400_.jpg">
   - [x] **Link:** https://automatetheboringstuff.com/
   - **Autores:** Al Sweigart
   - **Resumo:** Automatize as coisas chatas com Python é um ótimo livro para programação com Python para iniciantes. Ele cobre aspectos comuns da ciência de dados como munging de dados da web, correspondência de padrões, web scraping, extração de texto de arquivo pdf.
