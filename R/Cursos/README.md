@@ -17,6 +17,8 @@
   - **Idioma**: Inglês 
   - **Legenda**: Inglês, Português (Brasil) e outros. 
   
+  **Outros cursos de R do Coursera:** https://www.coursera.org/search?query=r%20&
+  
 
 ### :computer: R Programming A-Z™: R For Data Science With Real Exercises! [Pago] <img align="left" width="80" src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png"> 
 
@@ -25,6 +27,8 @@
   - **Tempo para** conclusão: 10h e 39 min. 
   - **Idioma**: Inglês 
   - **Legenda**: Inglês, Português (Brasil) automático e outros.
+
+  **Outros cursos de R da Udemy:** https://www.udemy.com/courses/search/?q=R
 
 
 ### :computer: Curso R [Pago] <img align="left" width="80" src="https://discourse.curso-r.com/uploads/default/optimized/1X/829ce65977fd40e2b4f6fb2ed8c1d63fc89dd5ef_2_1024x376.png"> 
