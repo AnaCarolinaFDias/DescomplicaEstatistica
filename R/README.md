@@ -25,7 +25,7 @@
 - [x] **Data Science com Spark** utilizando o ***Sparklyr*** - [Inglês](https://github.com/rstudio/cheatsheets/raw/master/sparklyr.pdf) 
 - [x] **Deep Learning** utilizando o ***Keras*** - [Inglês](https://github.com/rstudio/cheatsheets/raw/master/keras.pdf) 
 - [x] **Modelagem e Aprendizado de Máquina** utilizando o ***caret*** - [Português](https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/Caret-cheatsheet-portuguese.pdf) e em [Inglês](https://github.com/rstudio/cheatsheets/raw/master/caret.pdf) 
-- [x] **Utilizando comando de Python no R** com o ***Reticulate *** - [Inglês](https://github.com/rstudio/cheatsheets/raw/master/reticulate.pdf) 
+- [x] **Utilizando comando de Python no R** com o ***Reticulate*** - [Inglês](https://github.com/rstudio/cheatsheets/raw/master/reticulate.pdf) 
 - [x] **Comandos básicos do R** - [Inglês](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf) 
 - [x] **R avançado** - [Inglês](https://www.rstudio.com/wp-content/uploads/2016/02/advancedR.pdf) 
 - [x] **Imputação de dados** ausentes em séries temporais - [Inglês](https://github.com/rstudio/cheatsheets/raw/master/imputeTS.pdf) 
