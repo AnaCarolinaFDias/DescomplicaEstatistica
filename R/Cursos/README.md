@@ -9,7 +9,7 @@
 
 # Cursos de R Gratuitos
 
-### :green_book: Programa de cursos integrados Statistics with R [Gratuito] <img align="left" width="80" src="https://pbs.twimg.com/media/ETVHi8oUYAAt8Bi.png">
+### :computer: Programa de cursos integrados Statistics with R [Gratuito] <img align="left" width="80" src="https://pbs.twimg.com/media/ETVHi8oUYAAt8Bi.png">
 
 - [x] **Link:** https://pt.coursera.org/specializations/statistics?action=enroll#howItWorks
   -  **Conteúdo**: Master Statistics with R. Statistical mastery of data analysis including inference, modeling, and Bayesian approaches.
@@ -18,7 +18,7 @@
   - **Legenda**: Inglês, Português (Brasil) e outros. 
   
 
-### :green_book: R Programming A-Z™: R For Data Science With Real Exercises! [Pago] <img align="left" width="80" src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png"> 
+### :computer: R Programming A-Z™: R For Data Science With Real Exercises! [Pago] <img align="left" width="80" src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png"> 
 
 - [x] **Link:** https://www.udemy.com/share/101Wsg/
   -  **Conteúdo**: Learn Programming In R And R Studio. Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2
@@ -26,3 +26,11 @@
   - **Idioma**: Inglês 
   - **Legenda**: Inglês, Português (Brasil) automático e outros.
 
+
+### :computer: Curso R [Pago] <img align="left" width="80" src="https://discourse.curso-r.com/uploads/default/optimized/1X/829ce65977fd40e2b4f6fb2ed8c1d63fc89dd5ef_2_1024x376.png"> 
+
+- [x] **Link:** https://www.curso-r.com/cursos/
+  - **Conteúdo**: Oferecem conteúdos variados.
+  - **Tempo para** Depende do curso escolhido.
+  - **Idioma**: Português 
+  - **Legenda**: Português (Brasil)
