@@ -11,7 +11,6 @@ Este repositório é destinado ao compartilhamento de materiais de Estatística 
  - [x] [Materiais de Estatística](https://github.com/AnaCarolinaFDias/DescomplicaEstatistica/tree/master/Estatistica)
  - [x] [Materiais de R](https://github.com/AnaCarolinaFDias/DescomplicaEstatistica/tree/master/R)
  - [x] [Materiais de Python](https://github.com/AnaCarolinaFDias/DescomplicaEstatistica/tree/master/Python)
- - [x] [Materiais de PowerBI](https://github.com/AnaCarolinaFDias/DescomplicaEstatistica/tree/master/PowerBI)
 
 # Siga o Descomplica Estatística 
 
