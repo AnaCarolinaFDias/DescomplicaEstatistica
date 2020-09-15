@@ -35,5 +35,5 @@
 
 :arrow_forward: **Confira outros cheatsheets em inglês e traduções disponíveis no site: [RStudio](https://www.rstudio.com/resources/cheatsheets/)**
 
-
+ 
 
