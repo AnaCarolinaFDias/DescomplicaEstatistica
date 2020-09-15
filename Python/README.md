@@ -8,6 +8,7 @@
 
 # Cheatsheets do Python - (Folhas de Resumo) 
 
+- [x] **Python cheatsheet org** - [Inglês](https://www.pythoncheatsheet.org/)
 - [x] **Python para iniciantes** - [Inglês](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc.pdf)
 - [x] **Python para iniciantes - Listas** - [Inglês](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_lists.pdf)
 - [x] **Python para iniciantes - Dicionários**  - [Inglês](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_dictionaries.pdf)
