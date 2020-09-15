@@ -20,6 +20,7 @@
 - [x] **Python para iniciantes - matplotlib**  - [Inglês](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_matplotlib.pdf)
 - [x] **Python para iniciantes - Pygal**  - [Inglês](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_pygal.pdf)
 - [x] **Python para iniciantes - Django**  - [Inglês](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_django.pdf)
+- [x] **Python para iniciantes - Bokeh**  - [Inglês](https://datacamp-community-prod.s3.amazonaws.com/f9511cf4-abb9-4f52-9663-ea93b29ee4b7)
 - [x] **Importação de dados**  - [Inglês](https://datacamp-community-prod.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef)
 
 
