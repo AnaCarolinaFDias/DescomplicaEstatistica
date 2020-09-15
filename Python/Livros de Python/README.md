@@ -12,21 +12,21 @@
 
 <br/> 
 
-### :green_book: Python Cookbook [Gratuito] <img align="left" width="110" src="https://images-na.ssl-images-amazon.com/images/I/71GgAFsrHxL.jpg>
+### :green_book: Python Cookbook [Gratuito] <img align="left" width="110" src="https://images-na.ssl-images-amazon.com/images/I/71GgAFsrHxL.jpg">
 - [x] **Link:** https://d.cxcore.net/Python/Python_Cookbook_3rd_Edition.pdf
   - **Autor:** David Beazley e Brian K. Jones
   - **Resumo:** Este livro está cheio de receitas práticas escritas e testadas com Python 3.3, este livro gratuito exclusivo é para programadores Python experientes que desejam se concentrar em ferramentas e expressões modernas.
 
 <br/> 
 
-### :green_book: Hadoop com Python [Gratuito] <img align="left" width="110" src="https://www.freetechbooks.com/uploads/1521595848-pythonhadoop-rs.jpg>
+### :green_book: Hadoop com Python [Gratuito] <img align="left" width="110" src="https://www.freetechbooks.com/uploads/1521595848-pythonhadoop-rs.jpg">
 - [x] **Link:** https://www.programmer-books.com/wp-content/uploads/2018/07/hadoop_with_python.pdf
   - **Autor:** Zachary Radtka e Donald Miner
   - **Resumo:** 
 
 <br/> 
 
-### :green_book: How to Make Mistakes in Python[Gratuito] <img align="left" width="110" src="https://www.dbooks.org/img/books/1491934476s.jpg>
+### :green_book: How to Make Mistakes in Python[Gratuito] <img align="left" width="110" src="https://www.dbooks.org/img/books/1491934476s.jpg">
 - [x] **Link:** https://pythonizame.s3.amazonaws.com/media/Book/how-make-mistakes-python/file/ac5a809e-b019-11e6-ba9c-040196293901.pdf
   - **Autor:** Mike Pirnat
   - **Resumo:** 
