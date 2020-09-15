@@ -21,7 +21,7 @@
 - [x] **Python para iniciantes - Django**  - [Inglês](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_django.pdf)
 
 
-:arrow_forward: **Confira outros cheatsheets em inglês e traduções disponíveis no site: [RStudio](https://www.rstudio.com/resources/cheatsheets/)**
+:arrow_forward: **Confira outros cheatsheets em inglês:** (https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 
  
 
