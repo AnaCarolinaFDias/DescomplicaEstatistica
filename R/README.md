@@ -15,7 +15,7 @@
 - [x] **Visualização de dados** com o pacote ***ggplot2*** -  [Português](https://github.com/rstudio/cheatsheets/raw/master/translations/portuguese/ggplot2-cheatsheet-portuguese.pdf) e em [Inglês](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
 - [x] **Manipulação de datas e horas** com o pacote ***Lubridate*** - [Inglês](https://github.com/rstudio/cheatsheets/raw/master/lubridate.pdf) 
 - [x] **Manipulação de strings** (textos) com o pacote ***stringr*** - [Inglês](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf) 
-- [x] **Manipulação de dados Categóricos** (Fatores) com o pacote ***Forcats*** - [Inglês](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf) 
+- [x] **Manipulação de dados Categóricos** (Fatores) com o pacote ***Forcats*** - [Inglês](https://github.com/rstudio/cheatsheets/raw/master/factors.pdf) 
 - [x] **Manipulação de tabelas** (Fatores) com o pacote ***data.table*** - [Inglês](https://github.com/rstudio/cheatsheets/raw/master/datatable.pdf) 
 - [x] **Facilitando o trabalho com listas e funções** com o pacote ***purrr*** - [Inglês](https://github.com/rstudio/cheatsheets/raw/master/purrr.pdf) 
 - [x] **R Markdown Resumo** - [Inglês](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf) 
