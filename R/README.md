@@ -32,7 +32,7 @@
 - [x] **Noções básicas de expressões regulares** - [Inglês](https://github.com/rstudio/cheatsheets/raw/master/regex.pdf)
 
 
-:arrow_forward: **Confira outros cheatsheets em inglês e traduções disponíveis no site: [RStudio](https://www.rstudio.com/resources/cheatsheets/)**
+:arrow_forward: **Confira outros cheatsheets em inglês e traduções disponíveis no site: [RStudio](https://www.rstudio.com/resources/cheatsheets/)** ou https://github.com/rstudio/cheatsheets
 
  
 
