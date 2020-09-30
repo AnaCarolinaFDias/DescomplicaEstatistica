@@ -10,6 +10,11 @@
 
 # Canais em Português
 
+### :green_book: WiMLDS São Paulo <img align="left" width="110" src="https://yt3.ggpht.com/a/AATXAJw8qZL7gE85YLSLJmnjofp-E-xCVHsBVb51gVlw=s176-c-k-c0x00ffffff-no-rj">
+- [x] **Link:** https://www.youtube.com/channel/UC0Sslcw-_TwqP7DYieE7Oeg/videos
+
+<br>
+
 ### :green_book: EstatiDados <img align="left" width="110" src="https://yt3.ggpht.com/a/AATXAJxGYHT7lMdH3kZ5JpNmeCg9-pjjBdthFvwja7s1Fg=s176-c-k-c0x00ffffff-no-rj">
 - [x] **Link:** https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw
 
