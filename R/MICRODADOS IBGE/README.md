@@ -2,8 +2,8 @@
 
 Nessas lives você vai aprender  a utilizar ferramentas disponibilizadas pelo IBGE no software R para auxiliar na leitura de forma correta dos Microdados das pesquisas domiciliares amostrais do IBGE como:
 
-Vídeo 1 - Introdução a aos pacotes[https://www.youtube.com/watch?v=Q-rR5vu6cv4&t=516s&ab_channel=DescomplicaEstatistica]
-Vídeo 2 - Mão na passa - Aprenda o passo a passo no R [https://www.youtube.com/watch?v=Q-rR5vu6cv4&t=516s&ab_channel=DescomplicaEstatistica]
+[Vídeo 1 - Introdução a aos pacotes](https://www.youtube.com/watch?v=Q-rR5vu6cv4&t=516s&ab_channel=DescomplicaEstatistica)
+[Vídeo 2 - Mão na passa - Aprenda o passo a passo no R )] https://www.youtube.com/watch?v=Q-rR5vu6cv4&t=516s&ab_channel=DescomplicaEstatistica)
 
 
 🔹PNAD Contínua
