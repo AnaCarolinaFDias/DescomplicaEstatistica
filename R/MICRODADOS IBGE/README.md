@@ -4,7 +4,7 @@ Nessas lives você vai aprender  a utilizar ferramentas disponibilizadas pelo IB
 
 [Vídeo 1 - Introdução a aos pacotes.](https://www.youtube.com/watch?v=Q-rR5vu6cv4&t=516s&ab_channel=DescomplicaEstatistica)
 
-[Vídeo 2 - Mão na passa - Aprenda o passo a passo no R.](https://www.youtube.com/watch?v=Q-rR5vu6cv4&t=516s&ab_channel=DescomplicaEstatistica)
+[Vídeo 2 - Mão na massa - Aprenda o passo a passo no R.](https://www.youtube.com/watch?v=Q-rR5vu6cv4&t=516s&ab_channel=DescomplicaEstatistica)
 
 
 🔹PNAD Contínua
@@ -15,9 +15,9 @@ Nessas lives você vai aprender  a utilizar ferramentas disponibilizadas pelo IB
 
 O palestrante Gabriel Henrique é graduado e Mestre em Estatística e atualmente trabalho como Estatístico do IBGE. Ele é o responsável pelo controle e gerenciamento desses pacotes desenvolvidos no software R para leitura dos Microdados. 
 
-Linkedin:
+Linkedin: https://www.linkedin.com/in/gabriel-assun%C3%A7%C3%A3o-84990943/
 
-E-mail de contato:
+E-mail de contato: 
 Profissional - gabriel.assuncao@ibge.gov.br
 
 Pacotes - pacotesipd@ibge.gov.br
