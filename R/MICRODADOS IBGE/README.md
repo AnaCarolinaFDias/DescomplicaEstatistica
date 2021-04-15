@@ -4,7 +4,7 @@ Nessas lives você vai aprender  a utilizar ferramentas disponibilizadas pelo IB
 
 [Vídeo 1 - Introdução a aos pacotes.](https://www.youtube.com/watch?v=Q-rR5vu6cv4&t=516s&ab_channel=DescomplicaEstatistica)
 
-[Vídeo 2 - Mão na passa - Aprenda o passo a passo no R ] (https://www.youtube.com/watch?v=Q-rR5vu6cv4&t=516s&ab_channel=DescomplicaEstatistica)
+[Vídeo 2 - Mão na passa - Aprenda o passo a passo no R.](https://www.youtube.com/watch?v=Q-rR5vu6cv4&t=516s&ab_channel=DescomplicaEstatistica)
 
 
 🔹PNAD Contínua
@@ -19,9 +19,13 @@ Linkedin:
 
 E-mail de contato:
 Profissional - gabriel.assuncao@ibge.gov.br
+
 Pacotes - pacotesipd@ibge.gov.br
 
 ____________________________________________________________________________________
+
 Acompanhe também os conteúdos do descomplica nas outras redes sociais: 
+
 📌 Instagram:https://www.instagram.com/descomplicaestatistica/
+
 📌 Blog: https://descomplicaestatistica.com
