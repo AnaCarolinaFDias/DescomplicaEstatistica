@@ -14,13 +14,13 @@
 
 
 ###  Karine Lago  - Power BI [Português] <img align="left" width="80" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_play_button_icon_%282013%E2%80%932017%29.svg">
-- **Link:** https://www.youtube.com/user/Intelxcel
-- 
+ **Link:** https://www.youtube.com/user/Intelxcel
+
 ###  Leonardo Karpinski - Power BI Master [Português e Inglês] <img align="left" width="80" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_play_button_icon_%282013%E2%80%932017%29.svg">
-- **Link:** https://www.youtube.com/c/AprendaPowerBI/videos
-- 
+**Link:** https://www.youtube.com/c/AprendaPowerBI/videos
+
 ###  Guy in a Cube - Power BI [Português e Inglês] <img align="left" width="80" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_play_button_icon_%282013%E2%80%932017%29.svg">
-- **Link:** https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w
+**Link:** https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w
 
 # Links para testar o código DAX 
 
