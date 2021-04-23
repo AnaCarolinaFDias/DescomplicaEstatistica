@@ -10,15 +10,24 @@
 
 # Canais em Português
 
+### :green_book: Descomplica Estatística <img align="left" width="110" src="https://yt3.ggpht.com/ytc/AAUvwnhMOZAaqq6s87gNeQ3NsU62qQyZHkKlGXpnzqG4rQ=s88-c-k-c0x00ffffff-no-rj">
+**Link:** https://www.youtube.com/watch?v=hgqpbkJFP-g&t=7s
+
+
+
+### :green_book: Professora Fernanda Maciel <img align="left" width="110" src="https://yt3.ggpht.com/ytc/AAUvwnj_mZqhWT0MgSGLch1HI82yWsK_jXkSDeRWMvpI=s88-c-k-c0x00ffffff-no-rj">
+**Link:** https://www.youtube.com/channel/UCX8PPnYQKpO0OY_7yIPA0Qw
+
+
 ### :green_book: WiMLDS São Paulo <img align="left" width="110" src="https://yt3.ggpht.com/a/AATXAJw8qZL7gE85YLSLJmnjofp-E-xCVHsBVb51gVlw=s176-c-k-c0x00ffffff-no-rj">
-- [x] **Link:** https://www.youtube.com/channel/UC0Sslcw-_TwqP7DYieE7Oeg/videos
+**Link:** https://www.youtube.com/channel/UC0Sslcw-_TwqP7DYieE7Oeg/videos
 
 <br>
 
 ### :green_book: EstatiDados <img align="left" width="110" src="https://yt3.ggpht.com/a/AATXAJxGYHT7lMdH3kZ5JpNmeCg9-pjjBdthFvwja7s1Fg=s176-c-k-c0x00ffffff-no-rj">
-- [x] **Link:** https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw
+**Link:** https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw
 
 <br>
 
 ### :green_book: Estatistica aplicada <img align="left" width="110" src="https://yt3.ggpht.com/a/AATXAJxiUXkqFPX-Qq631wrtlqXGvSTVutB77qIkaeEccq4=s176-c-k-c0x00ffffff-no-rj">
-- [x] **Link:** https://www.youtube.com/channel/UCx1vXgGDXc7BH7bI1KC_o7Q
+**Link:** https://www.youtube.com/channel/UCx1vXgGDXc7BH7bI1KC_o7Q
