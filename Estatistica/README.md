@@ -6,14 +6,7 @@ Este repositório é destinado ao compartilhamento de materiais de Estatística 
    
 -------
 
-## Tópicos 
 
-### Módulo 1 - Introdução à Estatística
-
-- [x] [**Afinal, o que é Estatística?**](https://medium.com/@descomplicaestatistica/introdu%C3%A7%C3%A3o-%C3%A0-estat%C3%ADstica-39f49812162c)
-    - O que é a Estatística? 
-    - Para que serve? 
-    - Quais as áreas de atuação?
-    
+### Folha de Resumo - Probabilidade -  [Inglês](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
     
 ## Materiais 
