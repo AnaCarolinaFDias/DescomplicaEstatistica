@@ -6,6 +6,16 @@
 
 # Livros de Estatistica em Inglês
 
+### :green_book:  Aprendizado de máquina: uma abordagem estatística [Gratuito] <img align="left" width="100" src="http://www.rizbicki.ufscar.br/img/ame.png">
+Link: http://www.rizbicki.ufscar.br/AME.pdf
+
+   **Autores:** Rafael Izbicki,  Tiago Mendonça
+   
+  
+<br/> 
+
+
+
 ### :green_book:The Elements of  Statistical Learning - Data Mining, Inference, and Prediction   <img align="left" width="100" src="https://images-na.ssl-images-amazon.com/images/I/51gleGGYGGL.jpg">
 Link: https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 
