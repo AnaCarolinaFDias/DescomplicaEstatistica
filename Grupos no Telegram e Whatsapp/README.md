@@ -8,6 +8,3 @@
 - [x] **[DS & R] Ciência de Dados & R** - [Português](https://t.me/DataScienceAndR) 
 - [x] **Estatística ^ Data Science** - [Português](https://t.me/estatciencia) 
 - [x] **Dados Abertos .BR** - [Português](https://t.me/dadosabertos) 
-
-
-# Grupos no  <a  href="https://www.instagram.com/descomplicaestatistica/"> <img src="https://lh3.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN" title="Descomplica Estatistica" class="center" width="60">  </a>  
