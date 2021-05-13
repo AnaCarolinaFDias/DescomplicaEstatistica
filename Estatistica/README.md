@@ -9,4 +9,8 @@ Este repositório é destinado ao compartilhamento de materiais de Estatística 
 
 ### Folha de Resumo - Probabilidade -  [Inglês](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
     
+# Você sabe o que é Regressão Linear e Regressão Logística?
 
+- [x] **Regressão linear - Parte 1 ** - [Português](https://lnkd.in/etXsA-u)
+- [x] **Regressão linear - Parte 2 ** - [Português](https://lnkd.in/giCF7XA)
+- [x] **Regressão linear - Parte 3 ** - [Português](https://lnkd.in/eRuhme7)
