@@ -7,4 +7,4 @@
 
 
 
-- [x] **: Introducao a Ciencia de Dados** - [Português](https://www.ime.usp.br/~pam/cursos.html)
+- [x] **Introducao a Ciencia de Dados** - [Português](https://www.ime.usp.br/~pam/cursos.html)
