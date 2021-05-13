@@ -26,5 +26,5 @@
 
 :arrow_forward: **Confira outros cheatsheets em inglês:** (https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 
-# Treinamento básico de Python - PyLadies -BH -  https://github.com/PyLadiesBH/curso_python
+### Treinamento básico de Python - [PyLadies -BH](https://github.com/PyLadiesBH/curso_python)
 
