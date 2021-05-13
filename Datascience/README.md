@@ -4,3 +4,7 @@
 [Descomplica Estatística](https://www.instagram.com/descomplicaestatistica/). 
 
 :pushpin: A ideia é criar um repositório de referência para conteúdos e materiais de estudo de R de preferência **gratuitos** e em *português*. 
+
+
+
+- [x] **: Introducao a Ciencia de Dados** - [Português](https://www.ime.usp.br/~pam/cursos.html)
