@@ -41,7 +41,7 @@
   <br/> 
   
 ### :green_book: An Introduction to Statistical Learning: with Applications in R [Gratuito] <img align="left" width="100" src="https://m.media-amazon.com/images/I/41jy3mwLy9L.jpg">
-- [x]  Link: https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf
+- [x]  Link: https://github.com/tpn/pdfs/blob/master/An%20Introduction%20To%20Statistical%20Learning%20with%20Applications%20in%20R%20(ISLR%20Sixth%20Printing).pdf
   - **Autores:** Gareth James. Daniela Witten. Trevor Hastie, Robert Tibshirani
   - **Resumo:** Este livro fornece uma introdução aos métodos de aprendizagem estatísticos. Destina-se a alunos de graduação de nível superior, alunos de mestrado e doutorado. estudantes de ciências não matemáticas. O livro também contém vários exemplos em R com explicações detalhadas sobre como implementar os vários métodos em ambientes da vida real. Os tópicos incluem regressão linear, classificação, métodos de reamostragem, abordagens de redução, métodos baseados em árvore, máquinas de vetor de suporte, clustering e muito mais.
   
