@@ -1,6 +1,7 @@
 
-# Cursos de Python 
+# Cursos de Python <a  href="https://www.instagram.com/descomplicaestatistica/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" title="Descomplica Estatistica" class="center" width="60">  </a>  
 
+------
  - [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp/)
  - [Python A-Z™: Python For Data Science With Real Exercises](https://www.udemy.com/course/python-coding/)
  - [The Python Mega Course: Build 10 Real World Applications
