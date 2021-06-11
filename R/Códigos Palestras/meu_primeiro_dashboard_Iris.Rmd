@@ -1,0 +1,126 @@
+---
+title: "Dashboard Analise Iris"
+author: "Ana Carolina Dias" 
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns  # ou rows
+    vertical_layout: fill  # ou scroll
+    source_code: embed
+    social: [ "twitter", "facebook", "linkedin" ]
+    navbar:
+      - { title: "Sobre Mim", href: "https://example.com/about", align: right }
+      - { icon: fa-address-card, href: "https://example.com/about", align: right }
+    logo: logo.png
+    favicon: favicon.png
+---
+
+```{r setup, include=FALSE}
+
+# O include=FALSE serve para indicar que vamos rodar esse pedaço do codigo
+# mas nem o código nem a saída são exibidos no arquivo.
+
+library(readr)
+library(ggplot2)
+library(plotly)
+library(flexdashboard)
+library(DT)
+library(tidyverse)
+
+iris <- read_csv("iris.csv")
+
+mean_values = iris %>% 
+  summarise(media_SL = round(mean(sepal_length),3),
+            media_SW = round(mean(sepal_width),3),
+            media_PL = round(mean(petal_length),3),
+            media_PW = round(mean(petal_width),3))
+
+
+```
+
+# Visualizações {data-icon="fa-signal" data-navmenu="Analises"} 
+
+<!-- ## Barra Lateral {.sidebar} -->
+
+<!-- Esta barra lateral foi incluida somente  -->
+<!-- na pagina de visualizações -->
+
+## Column {data-width=200} 
+
+### Numero de observações da setosa com comprimento da sepala maior que 5 cm 
+```{r}
+filtro = iris %>% 
+  filter(sepal_length > 5) %>% 
+    group_by(species) %>%
+    summarise(Quantidade = n())
+
+gauge(filtro$Quantidade[1], min = 0, max = 50, gaugeSectors(
+  success = c(41, 50), warning = c(21, 40), danger = c(0, 20)
+))
+```
+
+### Numero de observações da versicolor com comprimento da sepala maior que 5 cm 
+
+```{r}
+
+gauge(filtro$Quantidade[2], min = 0, max = 50, gaugeSectors(
+  success = c(41, 50), warning = c(21, 40), danger = c(0, 20)
+))
+```
+
+### Numero de observações da virginica com comprimento da sepala maior que 5 cm 
+
+```{r}
+
+gauge(filtro$Quantidade[3], min = 0, max = 50, gaugeSectors(
+  success = c(41, 50), warning = c(21, 40), danger = c(0, 20)
+))
+```
+
+## Column {data-width=500}
+
+### Graficos de Pontos 
+
+```{r}
+
+
+grafico = ggplot(data=iris,
+       aes(x=sepal_width, y=sepal_length, color = species)) + 
+        geom_point()
+
+ggplotly(grafico)
+
+
+```
+
+## Column {data-width=300}
+
+### Boxplot 
+```{r}
+
+boxplot = ggplot(data=iris,
+       aes(x=species, y=petal_length,color=species)) + 
+  geom_boxplot() 
+
+ggplotly(boxplot)
+
+```
+
+### Histograma
+
+```{r}
+histograma = ggplot(data=iris,
+                    aes(x=sepal_length,fill=species)) + 
+  geom_histogram() 
+
+ggplotly(histograma)
+
+```
+
+# Tabelas {data-table=row data-icon="fa-list" data-navmenu="Analises"}
+
+### Tabela 1 
+
+```{r}
+
+DT::datatable(iris, options = list(pageLength = 25))
+```
